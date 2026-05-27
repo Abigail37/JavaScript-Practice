@@ -20,7 +20,3 @@ I am currently strengthening my understanding of core JavaScript concepts by sol
 
 ## Progress
 I will continue updating this repository as I progress through more FreeCodeCamp lessons and coding challenges.
-
-## Author
-Abigail Ogunmola
-Computer Science Student | Frontend Developer
