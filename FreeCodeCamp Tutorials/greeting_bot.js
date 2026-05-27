@@ -1,9 +1,9 @@
 console.log("Hi there!");
 console.log("I am excited to talk to you.");
 let bot;
-bot = "teacherBot";
+bot = "Abigail";
 
-let botLocation = "the universe";
+let botLocation = "Nigeria";
 
 console.log("Allow me to introduce myself.");
 
@@ -13,12 +13,12 @@ console.log(botIntroduction);
 const botLocationSentence = "I live in " + botLocation + ".";
 console.log(botLocationSentence);
 
-bot = "professorBot";
+bot = "Abby";
 
 const nicknameIntroduction = "My nickname is " + bot + ".";
 console.log(nicknameIntroduction);
 
-bot = "awesomeTeacherBot";
+bot = "Abibii";
 
 const newNicknameGreeting = "I love my nickname but I wish people would call me " + bot + ".";
 console.log(newNicknameGreeting);
